@@ -18,10 +18,36 @@ Atualmente, estou avançando pelos três mundos do curso:
 ---
 
 ## 📂 Organização do Repositório
-Para manter tudo limpo e fácil de encontrar, organizei os desafios por pastas:
+Os desafios estão organizados em pastas para facilitar a navegação:
 
-* `desafios/mundo_01`: Exercícios do 001 ao 035.
-* `desafios/mundo_02`: Exercícios do 036 ao 071. (Em progresso)
+* `mundo-01/`: Exercícios 001 ao 035.
+* `mundo-02/`: Exercícios 036 ao 071. (Em progresso)
+* `mundo-03/`: Exercícios 072 ao 115. (Planejado)
+
+---
+
+## 📖 Guia de Exercícios (O que estudei)
+
+### [Mundo 1] - Fundamentos
+* **001 - 004:** Primeiros passos, instalação e tipos primitivos de dados.
+* **005 - 015:** Cálculos matemáticos (Dobro, média, conversor de moedas, aluguel de carros).
+* **016 - 021:** Utilizando Módulos (Porção inteira, seno/cosseno, sorteios, tocando MP3).
+* **022 - 027:** Manipulação de Texto (Analisador de nomes, busca de strings, primeiro e último nome).
+* **028 - 035:** Condições em Python (if/else) (Jogo de adivinhação, radar eletrônico, aumentos salariais, triângulos).
+
+### [Mundo 2] - Estruturas de Controle
+* **036 - 045:** Condições Aninhadas (Aprovação de empréstimo, comparando números, Jokenpô).
+* **046 - 056:** Repetições em Python (for) (Contagem regressiva, números primos, detector de palíndromo).
+* **057 - 071:** Repetições em Python (while) (Validação de dados, Menu de opções, Sequência de Fibonacci, Estatísticas de produtos).
+
+### [Mundo 3] - Estruturas Compostas (Em breve)
+* **072 - 077:** Tuplas em Python.
+* **078 - 083:** Listas em Python.
+* **084 - 089:** Listas Compostas.
+* **090 - 095:** Dicionários em Python.
+* **096 - 106:** Funções em Python.
+* **107 - 112:** Modularização em Python.
+* **113 - 115:** Tratamento de Erros e Exceções.
 
 ---
 
