@@ -1,0 +1,8 @@
+word = input('Digite algo: ')
+print('Só tem espaços?', word.isspace())
+print('É um número?', word.isnumeric())
+print('É alfabeto?', word.isalpha())
+print('É alfanumérico?', word.isalnum())
+print('Está em maiúsculas?' , word.isupper())
+print('Está em minúsuculas?' , word.islower())
+print('Está capitalizado?' , word.istitle())
